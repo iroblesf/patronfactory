@@ -9,5 +9,5 @@ package proyectogit2;
  * @author Admin
  */
 public class Cliente {
-    
+    private String nombre;
 }
